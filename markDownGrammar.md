@@ -59,7 +59,7 @@ public class HelloWorld {
 ### 在表格 (Table) 內使用收合
 | 功能名稱 | 詳細說明 |
 | :--- | :--- |
-| 圖片預覽 | <details><summary>展開圖片</summary><img src="image.png" width="300"></details> |
+| 圖片預覽 | <details><summary>展開圖片</summary><img src="[image.png](https://github.com/user-attachments/assets/9c39b64d-1f36-44dc-84ff-13620c0f135c)" width="300"></details> |
 | 程式邏輯 | <details><summary>查看代碼</summary>這段邏輯處理了...<br>1. 驗證<br>2. 儲存</details> |
 
 ### 在收合區塊內放「程式碼區塊」
@@ -76,13 +76,12 @@ public class HelloWorld {
 
 ### 預設為「開啟」狀態，內容預設是展開的，使用者可以點擊收合，只需在標籤加上 `open`：
 
-```markdown
 <details open>
   <summary>預設已展開的區塊</summary>
   內容在此...
 
 </details>
-```
+
 ---
 # 圖片
 GitHub 上，有幾種常見的方式可以存放並引用圖片：</br>
