@@ -44,11 +44,45 @@ public class HelloWorld {
 > > 第二層巢狀引用
 > > > 第三層...
 
+---
+# 收合
+<details>
+  <summary>點擊展開查看詳情</summary>
 
-:::spoiler 點我展開/收合的標題
-這裡是要隱藏的內容
-:::
+  這裡是隱藏的內容，可以包含：
+  * 文字說明
+  * [連結](https://github.com)
+  * `程式碼`
 
+</details>
+
+### 在表格 (Table) 內使用收合
+| 功能名稱 | 詳細說明 |
+| :--- | :--- |
+| 圖片預覽 | <details><summary>展開圖片</summary><img src="image.png" width="300"></details> |
+| 程式邏輯 | <details><summary>查看代碼</summary>這段邏輯處理了...<br>1. 驗證<br>2. 儲存</details> |
+
+### 在收合區塊內放「程式碼區塊」
+這點最容易出錯！ 如果要在收合區塊內放入有語法高亮的程式碼區塊（使用 ` ` ` ），請務必在 < summary > 下方空一行，否則程式碼區塊會跑版。
+
+<details>
+  <summary>點擊查看 Python 範例</summary>
+
+  ```python
+  def hello_world():
+      print("Hello GitHub!")
+  ```
+</details>
+
+### 預設為「開啟」狀態，內容預設是展開的，使用者可以點擊收合，只需在標籤加上 `open`：
+
+```markdown
+<details open>
+  <summary>預設已展開的區塊</summary>
+  內容在此...
+
+</details>
+```
 ---
 # 圖片
 GitHub 上，有幾種常見的方式可以存放並引用圖片：</br>
