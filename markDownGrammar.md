@@ -27,6 +27,8 @@
 插入連結</br>
 [點我前往 Google](https://www.google.com)
 
+把字串的前後標在四個等號中間 ==要標色的字== 就會有螢光筆的效果！</br>
+
 ---
 # 程式碼
 JAVA 範例
@@ -41,6 +43,13 @@ public class HelloWorld {
 > 第一層引用
 > > 第二層巢狀引用
 > > > 第三層...
+
+
+:::spoiler
+這段程式碼會被收合
+```python
+print("Hello, World!")
+
 
 ---
 # 圖片
