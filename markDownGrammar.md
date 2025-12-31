@@ -93,7 +93,7 @@ GitHub 上，有幾種常見的方式可以存放並引用圖片：</br>
 # 表格
 | 項目 | 縮圖 (HTML 控制) | 說明 |
 | :--- | :--- | :--- |
-| 螢幕截圖 | <img src="https://github.com/user-attachments/assets/9c39b64d-1f36-44dc-84ff-13620c0f135c" width="300"> | 使用 HTML 控制寬度為 300px |
+| 螢幕截圖 | <img src="https://github.com/user-attachments/assets/3b21d08e-880d-474b-957d-c635db494078" width="300"> | 使用 HTML 控制寬度為 300px |
 
 ---
 # 註解
