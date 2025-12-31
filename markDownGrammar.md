@@ -58,7 +58,7 @@ public class HelloWorld {
 ### 在表格 (Table) 內使用收合
 | 功能名稱 | 詳細說明 |
 | :--- | :--- |
-| 圖片預覽 | <details><summary>展開圖片</summary><img src="https://github.com/user-attachments/assets/9c39b64d-1f36-44dc-84ff-13620c0f135c" width="300"></details> |
+| 圖片預覽 | <details><summary>展開圖片</summary><img src="https://github.com/user-attachments/assets/3b21d08e-880d-474b-957d-c635db494078" width="300"></details> |
 | 程式邏輯 | <details><summary>查看代碼</summary>這段邏輯處理了...<br>1. 驗證<br>2. 儲存</details> |
 
 ### 在收合區塊內放「程式碼區塊」
