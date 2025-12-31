@@ -45,11 +45,9 @@ public class HelloWorld {
 > > > 第三層...
 
 
-:::spoiler
-這段程式碼會被收合
-```python
-print("Hello, World!")
-
+:::spoiler 點我展開/收合的標題
+這裡是要隱藏的內容
+:::
 
 ---
 # 圖片
